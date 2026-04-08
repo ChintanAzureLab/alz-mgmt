@@ -31,7 +31,7 @@
   "parent_id": "landingzones"
 - "archetypes":
   - "partner"
-  "display_name": "Partner""
+  "display_name": "Partner"
   "exists": false
   "id": "partner"
   "parent_id": "landingzones"
