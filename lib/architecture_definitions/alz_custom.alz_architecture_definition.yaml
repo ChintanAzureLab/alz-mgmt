@@ -30,6 +30,12 @@
   "id": "online"
   "parent_id": "landingzones"
 - "archetypes":
+  - "partner"
+  "display_name": "Partner""
+  "exists": false
+  "id": "partner"
+  "parent_id": "landingzones"
+- "archetypes":
   - "sandbox_custom"
   "display_name": "Sandbox"
   "exists": false
