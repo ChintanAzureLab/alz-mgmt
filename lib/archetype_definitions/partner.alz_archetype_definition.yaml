@@ -1,5 +1,5 @@
 name: "partner"
-policy_assignments: [pbmm]
+policy_assignments: []
 policy_definitions: []
 policy_set_definitions: []
 role_definitions: []
