@@ -2,13 +2,9 @@
   "type": "Microsoft.Authorization/policyAssignments",
   "apiVersion": "2022-06-01",
   "name": "assign-canada-federal-pbmm",
-  // "identity": {
-  //   "type": "SystemAssigned"
-  // },
   "properties": {
     "displayName": "Canada Federal PBMM Compliance",
     "description": "Built-in Azure Regulatory Compliance initiative for Canada Federal PBMM.",
-    "scope": "tf-alz",
     "policyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/4c4a5f27-de81-430b-b4e5-9cbd50595a87",
     "enforcementMode": "Default",
     "parameters": {},
